@@ -32,7 +32,9 @@ Here's a step-by-step guide on how to install and run this project:
    Now, you're done! The project should now run, and you should see the output or any other specified behavior defined in your .py file.
 
 ## d.	Output of this project
-i. ![Alt Text](https://raw.githubusercontent.com/najat321/yp_ai_03_covid19_lstm/main/Matplotlib%20graph%20actual%20case%20vs%20predicted%20case.png?token=GHSAT0AAAAAACDTAPC2QXYIRVBZDOB43FB4ZEAKLCQ)
+i. ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_ecommerce_text_classification/main/Accuracy_model.PNG)
+ii. ![Alt Text]()
 ## e.	Source of datasets : 
-[https://github.com/MoH-Malaysia/covid19-public](https://github.com/MoH-Malaysia/covid19-public)
+https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification
+
 
