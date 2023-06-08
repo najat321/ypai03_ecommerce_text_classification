@@ -43,6 +43,10 @@ Here's a step-by-step guide on how to install and run this project:
 #### iii. Model Performance:
 
  ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_ecommerce_text_classification/main/Model_performance.png)
+ 
+#### iv. Model Architecture:
+
+ ![Alt Text](https://raw.githubusercontent.com/najat321/ypai03_ecommerce_text_classification/main/Model%20architecture.PNG)
 
 ## Source of datasets : 
 https://www.kaggle.com/datasets/saurabhshahane/ecommerce-text-classification
