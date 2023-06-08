@@ -7,7 +7,7 @@ This project is to categorize unseen products into 4 categories namely "Electron
 - There were some challenges in the data cleaning process where there was 1 missing value in the text column. I solved it by removing the missing values
 - The label was converted into integers using LabelEncoder before continuing with the model. The X_text and X_train was tokenized and padded. 
 ### iii.	Some challenges / features you hope to implement?
-I hpe to implement feature engineering. Experimenting with different feature engineering approaches can be beneficial. These approaches include using bag-of-words, TF-IDF, word embeddings (e.g., Word2Vec, GloVe, or fastText), character-level n-grams, part-of-speech tags, syntactic parsing, or domain-specific features. Feature engineering can capture important semantic and contextual information from the text and enhance the model's ability to learn meaningful representations.
+I hope to implement feature engineering. Experimenting with different feature engineering approaches can be beneficial. These approaches include using bag-of-words, TF-IDF, word embeddings (e.g., Word2Vec, GloVe, or fastText), character-level n-grams, part-of-speech tags, syntactic parsing, or domain-specific features. Feature engineering can capture important semantic and contextual information from the text and enhance the model's ability to learn meaningful representations.
 ## How to install and run the project 
 Here's a step-by-step guide on how to install and run this project:
 
