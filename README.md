@@ -1,4 +1,4 @@
-# Covid-19 New Cases Prediction
+# E-commerce Text Classification
 
 ## Project Description
 ### i.	What this project does?
